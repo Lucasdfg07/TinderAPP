@@ -13,7 +13,7 @@ import './registerServiceWorker';
 Vue.use(Buefy);
 Vue.use(ActionCableVue, { debug: true, debugLevel: 'error', connectionUrl: `wss://onebittinderapi.herokuapp.com/cable` })
  
-axios.defaults.baseURL = 'https://onebittinderapi.herokuapp.com/api/v1';
+axios.defaults.baseURL = 'http://onebittinderapi.herokuapp.com/api/v1';
 axios.defaults.headers.post['Content-Type'] = 'application/json';
  
 Vue.config.productionTip = false;
