@@ -1,0 +1,39 @@
+{
+  "name": "onebittinder",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "node server.js",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "postinstall": "yarn build"
+  },
+  "dependencies": {
+    "actioncable-vue": "^1.6.2",
+    "axios": "^0.19.2",
+    "buefy": "^0.8.13",
+    "core-js": "^3.6.4",
+    "express": "^4.17.1",
+    "register-service-worker": "^1.6.2",
+    "server-static": "^2.0.5",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-router": "^3.1.5",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-eslint": "~4.2.0",
+    "@vue/cli-plugin-pwa": "~4.2.0",
+    "@vue/cli-plugin-router": "~4.2.0",
+    "@vue/cli-plugin-vuex": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
