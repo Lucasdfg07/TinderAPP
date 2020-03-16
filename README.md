@@ -2,7 +2,7 @@
 
 
 ## Tinder APP
-This application is a Vue.js app, based on Tinder Layout and funcionality.
+This application is a Vue.js app, based on Tinder Layout and funcionality. Learn and build on the OneBitCode Bootcamp!
 
 
 ## Technology 
