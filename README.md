@@ -43,22 +43,27 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## How to use
 
-Log into the app.
+### Download de API to use together, into the URL:
+https://github.com/Lucasdfg07/OneBitTinderAPI
+
+### Initialize the API using "rails s".
+
+### Initialize the APP and log into the app.
 
 ![Log in](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img1.png)
 
 
-Like or deny the perfil based in description or photo.
+### Like or deny the perfil based in description or photo.
 
 ![Perfils](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img2.png)
 
 
-You can also see your own perfil and add photos, or alter your informations.
+### You can also see your own perfil and add photos, or alter your informations.
 
 ![Own perfil](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img3.png)
 
 
-Or see your matches and init a chat with other perfils.
+### Or see your matches and init a chat with other perfils.
 
 ![Own perfil](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img4.png)
 
