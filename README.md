@@ -43,29 +43,29 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## How to use
 
-### Download de API to use together, into the URL:
-https://github.com/Lucasdfg07/OneBitTinderAPI
+ - Download de API to use together, into the URL:
+ https://github.com/Lucasdfg07/OneBitTinderAPI
 
-### Initialize the API using "rails s".
+ - Initialize the API using "rails s".
 
-### Initialize the APP and log into the app.
+ - Initialize the APP and log into the app.
 
-![Log in](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img1.png)
-
-
-### Like or deny the perfil based in description or photo.
-
-![Perfils](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img2.png)
+ ![Log in](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img1.png)
 
 
-### You can also see your own perfil and add photos, or alter your informations.
+ - Like or deny the perfil based in description or photo.
 
-![Own perfil](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img3.png)
+ ![Perfils](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img2.png)
 
 
-### Or see your matches and init a chat with other perfils.
+ - You can also see your own perfil and add photos, or alter your informations.
 
-![Own perfil](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img4.png)
+ ![Own perfil](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img3.png)
+
+
+ - Or see your matches and init a chat with other perfils.
+
+ ![Own perfil](https://github.com/Lucasdfg07/TinderAPP/blob/master/public/img4.png)
 
 ## Features
 
