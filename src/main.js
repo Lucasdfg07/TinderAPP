@@ -11,9 +11,9 @@ import './registerServiceWorker';
  
  
 Vue.use(Buefy);
-Vue.use(ActionCableVue, { debug: true, debugLevel: 'error', connectionUrl: `ws://localhost:3000/cable` })
+Vue.use(ActionCableVue, { debug: true, debugLevel: 'error', connectionUrl: `wss://onebittinder.herokuapp.com/cable` })
  
-axios.defaults.baseURL = 'http://localhost:3000/api/v1';
+axios.defaults.baseURL = 'https://onebittinder.herokuapp.com/api/v1';
 axios.defaults.headers.post['Content-Type'] = 'application/json';
  
 Vue.config.productionTip = false;
