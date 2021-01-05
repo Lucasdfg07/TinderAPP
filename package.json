@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "actioncable-vue": "^1.6.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "buefy": "^0.8.13",
     "core-js": "^3.6.4",
     "express": "^4.17.1",
