@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "buefy": "^0.8.13",
     "core-js": "^3.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "register-service-worker": "^1.6.2",
     "server-static": "^2.0.5",
     "vue": "^2.6.11",
